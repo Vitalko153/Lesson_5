@@ -18,7 +18,7 @@ public class Employe {
     }
 
     void voice(){
-        System.out.println(name + " Работает в должности: " + position + " Электронный ящик: " + email + " Номер телефона: " + phone + " Заработная плата: " + salary + " Возвраст:" + age);
+        System.out.println(name + " Работает в должности: " + position + " Электронный ящик: " + email + " Номер телефона: " + phone + " Заработная плата: " + salary + " Возвраст: " + age);
 
     }
 }
